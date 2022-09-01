@@ -5,5 +5,5 @@ package com.tanvir.gitpractice
  */
 class Master2 {
 
-    val master = "master"
+    val branch = "b1"
 }
